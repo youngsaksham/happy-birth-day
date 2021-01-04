@@ -1,0 +1,64 @@
+h1 {
+    color: #000000;
+}
+
+/* {
+    border: solid;
+}*/
+
+.container{
+    background-color: #ff6a00;
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.container2{
+    background-color: #49cbff;
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.container3{
+    background-color: #ff2ed2;
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.container4{
+    background-color: #bcff41b4;
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.container5{
+    background-color: #ff4848;
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.container6{
+    background-color: #00b947;
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.container7{
+    background-color: #bbff00;
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.container8{
+    background-color: #aa00ff;
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
