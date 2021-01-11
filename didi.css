@@ -2,9 +2,15 @@ h1 {
     color: #000000;
 }
 
-/* {
-    border: solid;
-}*/
+img{
+    border: 5px solid #000000;
+opacity: 0.8;
+}
+
+img:hover{
+    opacity: 1;
+    border-color: #ffffff;
+}
 
 .container{
     background-color: #ff6a00;
